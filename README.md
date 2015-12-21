@@ -53,14 +53,19 @@ Installing a library bellow
 ```
 *You execute python normal 
 python execute_mnist_p.py
+
 *You execute python cython 
 python execute_mnist_p_c.py
+
 *You execute python cython + cdef 
 python execute_mnist_p_c2.py
+
 *You execute python cython + cdef + adam.py(cython)
 python execute_mnist_p_c3.py
+
 *You execute python cython + cdef + adam.py(cython)
 python execute_mnist_p_c3.py
+
 *You execute python graph visualize 
 python execute_mnist.py
 ```
